@@ -4,7 +4,7 @@ description: >-
   Guevara
 ---
 
-# KekikAkademi 🕊
+# @KekikAkademi 🕊
 
 **© tüm hakları açık keyfinizce takılın**
 
