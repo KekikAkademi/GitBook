@@ -1,6 +1,6 @@
 # Table of contents
 
-* [@KekikAkademi 🕊](README.md)
+* [KekikAkademi 🕊](README.md)
 
 ## 🐍 <a href="#python" id="python"></a>
 
