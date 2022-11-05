@@ -11,3 +11,5 @@
 * [x] Açılan penceredeki onayı kaldırıp şifremizi girelim ve onaylayıp kapatalım.
 
 <figure><img src="../../.gitbook/assets/Otomatik-Bağlama.png" alt=""><figcaption></figcaption></figure>
+
+> [Kaynak](https://forum.pardus.org.tr/t/diskin-acilista-otomatik-baglanmasi/10344/3)
