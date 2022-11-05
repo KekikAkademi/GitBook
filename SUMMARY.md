@@ -2,9 +2,9 @@
 
 * [@KekikAkademi 🕊](README.md)
 
-## 🐍 /dev
+## 🤖 /dev
 
-* [\~](dev/page-1.md)
+* [🐍 Python](dev/python.md)
 
 ## 🐧 /bin
 
@@ -15,4 +15,4 @@
 
 ## 👾 /etc
 
-* [\~](etc/page-3.md)
+* [☕ buymeacoffee](etc/buymeacoffee.md)
