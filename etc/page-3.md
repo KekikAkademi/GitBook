@@ -1,12 +1,6 @@
----
-description: >-
-  Çay olur, çorba olur, fitre olur, zekat olur; kenarda dursun, belki bişi
-  denemek isteyen olur.. 🕊
----
-
 # ☕ buymeacoffee
 
-
+_Çay olur, çorba olur, fitre olur, zekat olur; kenarda dursun, belki bişi denemek isteyen olur.. 🕊_
 
 | Banka                | IBAN                                         | Ad Soyad            |
 | -------------------- | -------------------------------------------- | ------------------- |

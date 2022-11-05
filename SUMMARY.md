@@ -4,7 +4,7 @@
 
 ## 🤖 /dev
 
-* [🐍 Python](dev/python.md)
+* [🐍 Python](dev/page-1.md)
 
 ## 🐧 /bin
 
@@ -15,4 +15,4 @@
 
 ## 👾 /etc
 
-* [☕ buymeacoffee](etc/buymeacoffee.md)
+* [☕ buymeacoffee](etc/page-3.md)
