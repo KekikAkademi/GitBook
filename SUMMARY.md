@@ -4,7 +4,7 @@
 
 ## 🐍 /dev
 
-* [Page 1](dev/page-1.md)
+* [\~](dev/undefined.md)
 
 ## 🐧 /bin
 
@@ -15,4 +15,4 @@
 
 ## 👾 /etc
 
-* [Page 3](etc/page-3.md)
+* [\~](etc/undefined.md)
