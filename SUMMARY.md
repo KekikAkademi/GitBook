@@ -1,15 +1,16 @@
 # Table of contents
 
-* [KekikAkademi 🕊](README.md)
+* [@KekikAkademi 🕊](README.md)
 
-## 🐍 <a href="#python" id="python"></a>
+## 🐍 /dev
 
-* [Page 1](python/page-1.md)
+* [Page 1](dev/page-1.md)
 
-## 🐧 <a href="#sistem" id="sistem"></a>
+## 🐧 /bin
 
-* [Page 2](sistem/page-2.md)
+* [🍇 Raspberry](bin/raspberry/README.md)
+  * [Raspberry Pi'nize .local Etki Alanı Nasıl Atanır?](bin/raspberry/raspberry-pinize-.local-etki-alani-nasil-atanir.md)
 
-## 👾 <a href="#diger" id="diger"></a>
+## 👾 /etc
 
-* [Page 3](diger/page-3.md)
+* [Page 3](etc/page-3.md)
