@@ -1,4 +1,4 @@
-# Python Lisanslı Yada Ücretli Yazılımları Uzaktan Güncellemek
+# Lisanslı Yada Ücretli Yazılımları Uzaktan Güncellemek
 
 Merhabalar. Freelance çalışan bir yazılımcı olarak ürettiğim yazılımları genelde birçok kişiye satıyorum.
 Ve bu yazılımlar ya lisanslı yada ücretli olarak satıldığı için güncellemeleri kullanıcılara elle göndermek zorunda kalıyordum. Şimdi bunu nasıl çözeceğimizi göreceğiz.
