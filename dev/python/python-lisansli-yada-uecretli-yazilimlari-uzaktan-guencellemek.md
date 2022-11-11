@@ -25,7 +25,7 @@ https://gitfront.io/
 
 * [x] Add Repository Kısmından githuba yüklediğimiz reponun ssh url'ini girelim
 
-<figure><img src="hhttps://i.hizliresim.comm/oumfggz.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.hizliresim.comm/oumfggz.png" alt=""><figcaption></figcaption></figure>
 
 * [x] Ve bize vereceği keyi repomuza deploy edip build yapalım.
 * [x] `View`'e basıp karşımıza çıkan `clone` tuşundan link alıp istediğimiz cihaza `git clone` yöntemiyle klonlayabiliriz artık
