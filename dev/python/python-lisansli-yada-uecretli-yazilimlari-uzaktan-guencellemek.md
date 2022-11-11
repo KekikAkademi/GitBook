@@ -1,12 +1,12 @@
-# Python Lisanslı Yada Ücretli Yazılımları Uzaktan Güncellemek
-
-## Lisanslı Yada Ücretli Yazılımları Uzaktan Güncellemek
+# Lisanslı Yada Ücretli Yazılımları Uzaktan Güncellemek
 
 Merhabalar. Freelance çalışan bir yazılımcı olarak ürettiğim yazılımları genelde birçok kişiye satıyorum. Ve bu yazılımlar ya lisanslı yada ücretli olarak satıldığı için güncellemeleri kullanıcılara elle göndermek zorunda kalıyordum. Şimdi bunu nasıl çözeceğimizi göreceğiz.
 
 ## Github Hesabı Açılması
 
+{% hint style="info" %}
 https://github.com/
+{% endhint %}
 
 * [x] Sayfaya giriş yapıp `Sign Up` kısmından gerekli bilgileri girerek kayıt olalım
 * [x] Python kodunuzun içine `os.system("git pull --rebase")` komutunu ekleyelim.
@@ -15,7 +15,9 @@ https://github.com/
 
 ## Gitfront io Hesabı Açılması
 
+{% hint style="warning" %}
 https://gitfront.io/
+{% endhint %}
 
 * [x] Sayfaya giriş yapıp `Get Started` kısmından gerekli bilgileri girerek kayıt olalım
 
