@@ -4,7 +4,8 @@
 
 ## 🤖 /dev
 
-* [🐍 Python](dev/page-1.md)
+* [🐍 Python](dev/python/README.md)
+  * [Python Lisanslı Yada Ücretli Yazılımları Uzaktan Güncellemek](dev/python/python-lisansli-yada-uecretli-yazilimlari-uzaktan-guencellemek.md)
 
 ## 🐧 /bin
 
