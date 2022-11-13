@@ -34,6 +34,6 @@ https://gitfront.io/
 
 ### Yazılım Güncellemesi
 
-* [x] Güncellediğiniz yazılım dosyalarını github'daki reponuza sürükleyin
+* [x] Güncellediğiniz yazılım dosyalarını github'daki reponuza sürükleyin.
 * [x] Ve gitfronttan reponuzun üzerine tıklayıp rebuild edin.
 * [x] Artık dağıttığınız müşteri programı yeniden başlattığında `os.system("git pull --rebase")` komutu çalıştığında yazılım yeni haliyle güncellenmiş olacaktır. Tabiki müşterinin yazılım üzerinde oynama yapmaması gerekiyor.
