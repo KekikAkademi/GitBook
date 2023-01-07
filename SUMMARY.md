@@ -16,4 +16,4 @@
 
 ## 👾 /etc
 
-* [☕ buymeacoffee](etc/page-3.md)
+* [☕ buymeacoffee](etc/buymeacoffee.md)
