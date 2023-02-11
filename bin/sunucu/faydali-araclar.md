@@ -12,6 +12,8 @@
 
 {% hint style="success" %}
 ****[**mailcow: dockerized**](https://github.com/mailcow/mailcow-dockerized)****
+
+**»** [_Mailcow: Setting up a full featured self hosted mail server_](https://dev.to/hatembentayeb/mailcow-setting-up-a-full-featured-self-hosted-mail-server-4511)__
 {% endhint %}
 
 {% hint style="success" %}
