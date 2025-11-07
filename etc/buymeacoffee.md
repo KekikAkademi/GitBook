@@ -6,5 +6,5 @@ _Çay olur, çorba olur, fitre olur, zekat olur; kenarda dursun, belki bişi den
 
 | Banka        | IBAN                                   | Ad Soyad            |
 | ------------ | -------------------------------------- | ------------------- |
-| **» EnPara** | **TR**`70 0011 1000 0000 0118 5102 59` | _Ömer Faruk Sancak_ |
+| **» EnPara** | **TR**`16 0015 7000 0000 0118 5102 59` | _Ömer Faruk Sancak_ |
 | **» Papara** | `2146190740`                           | _Ömer Faruk Sancak_ |
